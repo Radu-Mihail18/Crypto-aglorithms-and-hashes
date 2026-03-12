@@ -1,0 +1,3 @@
+﻿  AES_test.cpp
+C:\Radu\Crypto\AES_test\AES_test.cpp(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+  AES_test.vcxproj -> C:\Radu\Crypto\AES_test\x64\Debug\AES_test.exe

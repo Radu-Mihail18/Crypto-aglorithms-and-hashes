@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Blake256Test.vcxproj" Id="1cd88c03-dca8-42c7-823f-f7d5669a9865" />
+</Solution>

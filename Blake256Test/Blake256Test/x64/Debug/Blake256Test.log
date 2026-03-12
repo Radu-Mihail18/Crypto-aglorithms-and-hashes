@@ -1,0 +1,3 @@
+﻿  OMD_Blake256.cpp
+C:\Radu\Crypto\Blake256Test\OMD_Blake256.cpp(17,5): error C3861: 'initialize': identifier not found
+C:\Radu\Crypto\Blake256Test\OMD_Blake256.cpp(33,5): error C3861: 'round_function': identifier not found
